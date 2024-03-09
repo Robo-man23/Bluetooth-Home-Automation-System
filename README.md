@@ -1,12 +1,12 @@
 # Bluetooth-Home-Automation-System ( https://sites.google.com/view/rhythmshah/bluetooth-home-automation?authuser=0 )
 
 **Components Required:**
-1.Arduino UNO
-2.HC-05 Bluetooth Module
-3. 5v 4 channel Relay Module
-4. 5v Power Supply
-5. Ac appliances with connections of wires to relay module
-6. LED with 330 ohm resistor
+1. Arduino UNO
+2. HC-05 Bluetooth Module
+3.  5v 4 channel Relay Module
+4.  5v Power Supply
+5.  Ac appliances with connections of wires to relay module
+6.  LED with 330 ohm resistor
 
 **Working-**
 
