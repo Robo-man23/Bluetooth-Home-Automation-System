@@ -1,7 +1,8 @@
 <div align="center">
-# Bluetooth-Home-Automation-System
-**[Visit my website](https://sites.google.com/view/rhythmshah/bluetooth-home-automation?authuser=0)**
+  <h1>Bluetooth-Home-Automation-System</h1>
+  <a href="https://sites.google.com/view/rhythmshah/bluetooth-home-automation?authuser=0"><b>Visit my website</b></a>
 </div>
+
 
 ## **Components Required:**
 1. Arduino UNO
