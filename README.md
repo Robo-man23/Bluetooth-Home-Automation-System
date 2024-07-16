@@ -1,4 +1,4 @@
-# Bluetooth-Home-Automation-System ( https://sites.google.com/view/rhythmshah/bluetooth-home-automation?authuser=0 )
+# [Bluetooth-Home-Automation-System] ( https://sites.google.com/view/rhythmshah/bluetooth-home-automation?authuser=0 )
 
 **Components Required:**
 1. Arduino UNO
