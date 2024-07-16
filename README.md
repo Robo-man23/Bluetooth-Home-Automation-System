@@ -4,7 +4,7 @@
 </div>
 
 
-## **Components Required:**
+## **Components Required :**
 
 1. Arduino UNO
 2. HC-05 Bluetooth Module
